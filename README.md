@@ -20,3 +20,4 @@
 ## Reference:
 1. Udacity
 2. https://github.com/fxzero/Sparkify-Project
+3. https://github.com/celestinhermez/sparkify_customer_churn
